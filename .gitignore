@@ -1,0 +1,17 @@
+# IDE folders and cash
+.idea/
+.gradle/
+.kotlin/
+*.iml
+
+# Build
+build/
+app/build/
+
+# Confidentially
+local.properties
+*.jks
+*.keystore
+
+# System
+.DS_Store
